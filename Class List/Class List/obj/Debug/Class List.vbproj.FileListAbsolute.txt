@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\bin\Debug\Class List.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\bin\Debug\Class List.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\bin\Debug\Class List.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\bin\Debug\Class List.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class_List.frmClassList.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class_List.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class List.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class List.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class List.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class List.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\bin\Debug\Class List.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\bin\Debug\Class List.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class List.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Class List\Class List\obj\Debug\Class List.application
